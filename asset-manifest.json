@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManoCompiler/static/css/main.b9605d8b.css",
+    "main.js": "/ManoCompiler/static/js/main.53fd3b37.js",
+    "index.html": "/ManoCompiler/index.html",
+    "main.b9605d8b.css.map": "/ManoCompiler/static/css/main.b9605d8b.css.map",
+    "main.53fd3b37.js.map": "/ManoCompiler/static/js/main.53fd3b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9605d8b.css",
+    "static/js/main.53fd3b37.js"
+  ]
+}
